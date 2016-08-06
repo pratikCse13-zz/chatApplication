@@ -1,11 +1,13 @@
 # chatApplication
 
-# to run the app clone it to your directory 
+a simple application to send and receive messages and documens 
 
-# open command line 
+1. to run the app clone it to your directory 
 
-# relocate to the directory this repository is cloned
+2. open command line 
 
-# run node index.js
+3. relocate to the directory this repository is cloned
 
-# go to your browser and log to 'localhost:81'
+4. run node index.js
+
+5. go to your browser and log to 'localhost:81'
