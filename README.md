@@ -2,11 +2,13 @@
 
 a simple application to send and receive messages and documens 
 
-1. to run the app clone it to your directory 
+to run the app:: 
+
+1. clone this repository to a directory in your local file system 
 
 2. open command line 
 
-3. relocate to the directory this repository is cloned
+3. relocate to the directory this repository is cloned in
 
 4. run node index.js
 
