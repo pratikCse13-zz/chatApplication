@@ -1,6 +1,6 @@
 # chatApplication
 
-a simple application to send and receive messages and documens 
+a simple application to send and receive messages and documents 
 
 to run the app:: 
 
